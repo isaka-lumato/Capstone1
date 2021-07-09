@@ -1,8 +1,8 @@
 const speakers = [
   {
     id: 1,
-    image: 'https://avatars.githubusercontent.com/u/51737508?v=4',
-    name: 'Tacettin Kustu',
+    image: 'utils/images/mmexport1568982175331.jpg',
+    name: 'Isaac Lumato',
     organization: 'Full Stack Developer at Microverse',
     background:
       'Lorem ipsum, dolor sit amet adipisicing elit. Deleniti, molestias.',
