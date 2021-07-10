@@ -26,10 +26,10 @@ To get a local copy up and running usual steps.
 
 
 ## Author
-👤 **Tacettin Kustu**
+👤 **isaac lumato**
 
 - GitHub: [@isaka-lumato](https://github.com/isaka-lumato)
-- LinkedIn: [tacettinkustu](https://www.linkedin.com/in/isaka-william-90773020b/)
+- LinkedIn: [@isaka-lumato](https://www.linkedin.com/in/isaka-william-90773020b/)
 
 ## UI Designer
 
